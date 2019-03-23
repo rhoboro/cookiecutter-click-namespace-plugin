@@ -1,0 +1,6 @@
+{
+  "namespace": "maincommand",
+  "plugin": "subcommand",
+  "author": "yourname",
+  "author_email": "yourname@domain"
+}
